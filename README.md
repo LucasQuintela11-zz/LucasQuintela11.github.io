@@ -2,6 +2,10 @@
 
 #Curriculo online
 
-O objetivo do projeto e cololcar em pratica as conceitos aprendindo no curo de git e github, ao mesmo tempo montar um portifólio de desevolvimento.
+O projeto tem como objetivo colocar em prática os conceitos aprendidos no curso de git e github, ao mesmo tempo criar um portfólio de desenvolvimento demonstrando as competências, habilidades e projetos.
 
 ![](portifolio.jpeg)
+
+##Instação
+
+Basta baixar o código no repositorio do github.
